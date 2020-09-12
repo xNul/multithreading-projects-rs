@@ -1,6 +1,6 @@
 # What is this?
 
-A repository for my Rust assignments in COP 6616 Multicore class.
+A repository for my COP 6616 Multicore class Rust assignments.
 
 # Building and Running an Assignment
 
