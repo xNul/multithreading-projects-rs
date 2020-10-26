@@ -2,4 +2,6 @@
 
 members = [
     "assignment-1",
+    "assignment-2/problem-1",
+    "assignment-2/problem-2"
 ]
