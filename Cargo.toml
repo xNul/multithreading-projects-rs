@@ -3,5 +3,12 @@
 members = [
     "assignment-1",
     "assignment-2/problem-1",
-    "assignment-2/problem-2"
+    "assignment-2/problem-2",
+    "assignment-3/problem-1",
+    "assignment-3/problem-2",
+    "assignment-4/problem-1",
+    "assignment-4/problem-2"
 ]
+
+[profile.release]
+debug = false

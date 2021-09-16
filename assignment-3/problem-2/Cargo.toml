@@ -1,5 +1,5 @@
 [package]
-name = "assignment-2-problem-2"
+name = "assignment-3-problem-2"
 version = "0.1.0"
 authors = ["Blake Wyatt <blakewy@live.com>"]
 edition = "2018"
@@ -8,3 +8,4 @@ edition = "2018"
 
 [dependencies]
 rand = "0.7.3"
+atomic-markable-ptr = {git = "https://github.com/jamescarterbell/AtomicMarkablePtr.git", branch = "main"}
